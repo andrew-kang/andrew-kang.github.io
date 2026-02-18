@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -13,6 +13,7 @@ My CV is available as a PDF (TBA), or as summarized below.
 
 Education
 ======
+* Ph.D. in Electrical and Computer Engineering, University of Michigan, 2031 (expected)
 * B.A. in Mathematics and Computer Science, Cornell University, 2026 (expected)
 
 Work experience
