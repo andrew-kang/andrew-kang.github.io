@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available as a [PDF](/files/AndrewKang_CV), or as summarized below.
+My CV is available as a [PDF](/files/AndrewKang_CV.pdf), or as summarized below.
 
 Education
 ======
