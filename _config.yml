@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Andrew Kang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Ithaca, NY"
-  employer         : "Cornell University "
+  bio              : "Incoming Ph.D. in Electrical and Computer Engineering at the University of Michigan."
+  employer         : # "University of Michigan"
+  location         : "Ann Arbor, MI"
   uri              : # URL
-  email            : "ayk36@cornell.edu" 
+  email            : # "ayk36@cornell.edu" 
 
   # Academic websites
   academia         : # URL
