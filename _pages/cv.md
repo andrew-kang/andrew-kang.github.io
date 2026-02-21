@@ -14,9 +14,10 @@ My CV is available as a [PDF](/files/AndrewKang_CV.pdf), or as summarized below.
 Education
 ======
 * Ph.D. in Electrical and Computer Engineering, University of Michigan, 2031 (expected)
+* M.S. in Electrical and Computer Engineering, University of Michigan, 2028 (expected)
 * B.A. in Mathematics and Computer Science, Cornell University, 2026 (expected)
 
-Work experience
+Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -38,19 +39,4 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
