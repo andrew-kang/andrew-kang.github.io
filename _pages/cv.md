@@ -14,8 +14,8 @@ My CV is available as a [PDF](/files/AndrewKang_CV.pdf), or as summarized below.
 Education
 ======
 * Ph.D. in Electrical and Computer Engineering, University of Michigan, 2031 (expected)
-* M.S. in Electrical and Computer Engineering, University of Michigan, 2028 (expected)
-* B.A. in Mathematics and Computer Science, Cornell University, 2026 (expected)
+* M.S.  in Electrical and Computer Engineering, University of Michigan, 2028 (expected)
+* B.A.  in Mathematics and Computer Science, Cornell University, 2026 (expected)
 
 Experience
 ======
