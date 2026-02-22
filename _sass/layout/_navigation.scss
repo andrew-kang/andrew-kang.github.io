@@ -181,7 +181,7 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: var(--global-masthead-link-color);
+    color: #FFCB05;
     text-decoration: none;
 
     &:hover {
@@ -203,7 +203,6 @@
   }
 
   .visible-links {
-    color: #FFCB05;
     display: table;
 
     li {
