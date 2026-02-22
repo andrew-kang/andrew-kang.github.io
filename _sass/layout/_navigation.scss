@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: var(--global-text-color-light);
+      color: #FFCB05;
       border: 1px solid var(--global-border-color);
       border-radius: 0;
 
@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: var(--global-text-color-light);
+        color: #FFCB05;
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: var(--global-text-color-light);
+    color: #FFCB05;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
 
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: var(--global-text-color-light);
+      color: #FFCB05;
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: #00274C;
-    color: var(--global-text-color);
+    color: #FFCB05;
     cursor: pointer;
     z-index: 100;
   }
@@ -384,7 +384,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: var(--global-text-color-light);
+  color: #FFCB05;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
