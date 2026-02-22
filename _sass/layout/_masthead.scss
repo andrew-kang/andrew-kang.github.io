@@ -67,9 +67,9 @@
 }
 
 .masthead__menu-item.selected a {
-  color: var(--global-text-color);
+  color: #FFCB05;
   font-weight: 700;
-  border-bottom: 2px solid var(--global-text-color);
+  border-bottom: 2px solid #FFCB05;
   pointer-events: none;
   /* Move this here */
   cursor: default;
@@ -77,7 +77,7 @@
 }
 
 .masthead__menu-item.selected a:hover {
-  color: var(--global-text-color);
-  border-bottom: 2px solid var(--global-text-color);
+  color: #FFCB05;
+  border-bottom: 2px solid #FFCB05;
   /* No need to repeat pointer-events and cursor here */
 }
