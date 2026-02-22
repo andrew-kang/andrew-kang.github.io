@@ -88,7 +88,7 @@
       border-radius: 0;
 
       &:hover {
-        color: #FFCB05;
+        color: var(--global-link-color-hover);
       }
 
       &.current {
@@ -136,7 +136,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: #FFCB05;
+      color: var(--global-link-color-hover);
     }
 
     &:first-child {
@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: #FFCB05;
+      color: var(--global-masthead-link-color-hover);
     }
   }
 
@@ -203,6 +203,7 @@
   }
 
   .visible-links {
+    color: #FFCB05;
     display: table;
 
     li {
@@ -279,8 +280,8 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: #FFCB05;
-        background: #FFCB05;
+        color: var(--global-masthead-link-color-hover);
+        background: var(--global-border-color);
       }
     }
 
