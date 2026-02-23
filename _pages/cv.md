@@ -17,13 +17,6 @@ Education
 * M.S.  University of Michigan, Ann Arbor. Electrical and Computer Engineering. 2028 (expected)
 * B.A.  Cornell University. Mathematics and Computer Science. 2026 (expected)
 
-Experience
-======
-* UNDER CONSTRUCTION
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
