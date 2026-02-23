@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be starting a Ph.D. in Electrical and Computer Engineering at the University of Michigan (Ann Arbor) in Fall 2026, supervised by Prof. [Inigo Incer](https://iincer.github.io/). Currently, I am an undergraduate double majoring in Mathematics and Computer Science at Cornell University, advised by Prof. [Sainyam Galhotra](https://sainyamgalhotra.com/). 
+I will be starting a Ph.D. in Electrical and Computer Engineering at the University of Michigan in Fall 2026, supervised by Prof. [Inigo Incer](https://iincer.github.io/). Currently, I am an undergraduate double majoring in Mathematics and Computer Science at Cornell University, advised by Prof. [Sainyam Galhotra](https://sainyamgalhotra.com/). 
 
 My research interests lie at the intersection of category theory and control systems.
 
