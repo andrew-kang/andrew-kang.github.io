@@ -9,7 +9,7 @@ redirect_from:
 
 I will be starting a Ph.D. in Electrical and Computer Engineering at the University of Michigan in Fall 2026, supervised by Prof. [Inigo Incer](https://iincer.github.io/). Currently, I am an undergraduate double majoring in Mathematics and Computer Science at Cornell University, advised by Prof. [Sainyam Galhotra](https://sainyamgalhotra.com/). 
 
-My research interests lie at the intersection of category theory, computational logic, and control systems.
+My research interests lie at the intersection of category theory and control systems.
 
 Feel free to reach me at [aykang@umich.edu](mailto:aykang@umich.edu).
 
