@@ -84,10 +84,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
-    title: '2025'    
-  conferences:
-    title: '2024'
+  # manuscripts:
+  #   title: '2025'    
+  # conferences:
+  #   title: '2024'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
