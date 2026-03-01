@@ -27,7 +27,7 @@ author:
   name             : "Andrew Kang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming Ph.D. Student in Electrical and Computer Engineering"
-  employer         : "University of Michigan"
+  employer         : # "University of Michigan"
   location         : "Ann Arbor, MI"
   uri              : # URL
   email            : # "ayk36@cornell.edu" 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=EjcvUE0AAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/yourorcidurl"
