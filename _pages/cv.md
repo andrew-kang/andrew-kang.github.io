@@ -15,7 +15,7 @@ Education
 ======
 * PhD in Electrical and Computer Engineering, University of Michigan, 2031 (expected).
 * MS in Electrical and Computer Engineering, University of Michigan, 2028 (expected).
-* BA in Mathematics and Computer Science, Cornell University, 2026 (expected). 
+* BA in Mathematics and Computer Science, Cornell University, 2026. 
 
 <!-- Publications
 ======
