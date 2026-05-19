@@ -14,6 +14,6 @@ My research interests lie at the intersection of formal methods, control theory,
 Feel free to reach me at [aykang@umich.edu](mailto:aykang@umich.edu).
 
 ## Recent News
-- **May 2026:** I have officially graduated from Cornell University! I am honored to be [featured](https://bowers.cornell.edu/news-stories/andrew-kang-26-making-most-undergraduate-research-opportunities) in the Cornell Bowers CIS graduation spotlight series for the Class of 2026.
+- **May 2026:** I have officially graduated from Cornell University! I am honored to have been [featured](https://bowers.cornell.edu/news-stories/andrew-kang-26-making-most-undergraduate-research-opportunities) in the Cornell Bowers CIS graduation spotlight series for the Class of 2026.
 - **February 2026:** I will be starting a PhD at the University of Michigan in Fall 2026.
 - **January 2026:** I received an honorable mention for the 2026 CRA Outstanding Undergraduate Researcher Award.
