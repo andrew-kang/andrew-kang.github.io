@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Electrical and Computer Engineering at the University of Michigan, Ann Arbor. I am fortunate to be advised by Prof. [Inigo Incer](https://iincer.github.io/). I completed my BA in Mathematics and Computer Science at Cornell University, where I did research with Prof. [Sainyam Galhotra](https://sainyamgalhotra.com/). 
+I am a PhD student in Electrical and Computer Engineering at the University of Michigan. I am fortunate to be advised by Prof. [Inigo Incer](https://iincer.github.io/). I completed my BA in Mathematics and Computer Science at Cornell University, where I did research with Prof. [Sainyam Galhotra](https://sainyamgalhotra.com/). 
 
 My research interests lie at the intersection of formal methods, control theory, and cyber-physical systems.
 
