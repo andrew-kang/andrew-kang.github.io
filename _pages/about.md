@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in Electrical and Computer Engineering at the University of Michigan. I am fortunate to be advised by Prof. [Inigo Incer](https://iincer.github.io/). I completed my BA in Mathematics and Computer Science at Cornell University, where I did research under Prof. [Sainyam Galhotra](https://sainyamgalhotra.com/). 
 
-My research interests lie at the intersection of formal methods, control theory, and cyber-physical systems.
+My research interests lie at the intersection of category theory, control theory, and cyber-physical systems.
 
 Feel free to reach me at [aykang@umich.edu](mailto:aykang@umich.edu).
 
