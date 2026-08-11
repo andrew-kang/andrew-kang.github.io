@@ -11,11 +11,11 @@ redirect_from:
 
 My CV is available as a [PDF](/files/AndrewKang_CV.pdf).
 
-Education
+<!-- Education
 ======
 * PhD in Electrical and Computer Engineering, University of Michigan, 2031 (expected).
 * MS in Electrical and Computer Engineering, University of Michigan, 2028 (expected).
-* BA in Mathematics and Computer Science, Cornell University, 2026. 
+* BA in Mathematics and Computer Science, Cornell University, 2026.  -->
 
 <!-- Publications
 ======
