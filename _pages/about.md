@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD student in Electrical and Computer Engineering at the University of Michigan. I am fortunate to be advised by Prof. [Inigo Incer](https://iincer.github.io/). I completed my BA in Mathematics and Computer Science at Cornell University, where I did research with Prof. [Sainyam Galhotra](https://sainyamgalhotra.com/). 
 
-My research interests span formal methods, systems engineering, and applied category theory.
+My research interests span applied category theory, formal methods, and systems engineering. 
 
-Feel free to reach me at [aykang@umich.edu](mailto:aykang@umich.edu).
+You can reach me at [aykang@umich.edu](mailto:aykang@umich.edu).
 
 ## Recent News
 - **May 2026:** I have officially graduated from Cornell University! I am honored to have been featured in the the Cornell Computing and Information Science (CIS) [graduation spotlight series](https://bowers.cornell.edu/news-stories/andrew-kang-26-making-most-undergraduate-research-opportunities) celebrating the Class of 2026.
